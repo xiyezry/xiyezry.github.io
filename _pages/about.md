@@ -39,7 +39,7 @@ My research interests are mainly in Software Engineering and Knowledge Graphs. S
 - National Scholarship, Ministry of Education of the P.R. China. 2019
 
 # 📖 Educations
-- 2022~now  Ph.D student, Chinese University of Hong Kong
-- 2018~2022 Bachelor degree, Wuhan University
+- 2022.08~now  Ph.D student, Chinese University of Hong Kong
+- 2018.09~2022.06 Bachelor degree, Wuhan University
 
-# 💻 Internships
+<!-- # 💻 Internships -->
