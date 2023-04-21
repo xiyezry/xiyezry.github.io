@@ -42,4 +42,8 @@ My research interests are mainly in Software Engineering and Knowledge Graphs. S
 - 2022.08~now  Ph.D student, Chinese University of Hong Kong
 - 2018.09~2022.06 Bachelor degree, Wuhan University
 
+# Teaching Assisstant
+
+- 2022 Fall: CSCI1130A Introduction to Computing Using Java
+- 2023 Spring: ENGG1110D Problem Solving By Programming
 <!-- # 💻 Internships -->
