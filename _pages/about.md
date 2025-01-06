@@ -19,7 +19,7 @@ redirect_from:
 
 I'm now a year 3 Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) in The Chinese University of Hong Kong, advised by [Prof.Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). 
 
-My research interests are mainly in Software Engineering and Knowledge Graphs. Specifically, it's log-based anomaly detection and financial knowledge graph.
+My research interests are mainly in quality assurance in software maintainance. Specifically, it's quality assurance for logging statements and code comments.
 
 
 # 🔥 News
