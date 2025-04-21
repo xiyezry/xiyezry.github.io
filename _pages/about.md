@@ -27,10 +27,11 @@ My research interests are mainly in quality assurance in software maintainance. 
 - [2022/04/04] I have been selected as the outstanding graduates of Wuhan University.
 
 # 📝 Publications 
-- Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study, Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu, IEEE Transactions on Software Engineering (TSE), 2024
-- Go Static: Contextualized Logging Statement Generation, Yichen Li, Yintong Huo, **Renyi Zhong**, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He and Michael R. Lyu, The ACM International Conference on the Foundations of Software Engineering (FSE), Porto de Galinhas, Brazil, July 2024.
-- Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach, Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R Lyu, International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2024
-- [Automatic Trend Analysis of Mobile App Updates Based on App Changelogs](https://crad.ict.ac.cn/EN/10.7544/issn1000-1239.2021.20200756), **Zhong Renyi**, Wang Chong, Liang Peng, Luo zhong, **Journal of Computer Research and Development**, 2021, 58(4)
+- LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements, **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu, ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF A), Just Accepted
+- Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study, Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu, IEEE Transactions on Software Engineering (TSE) (CCF A), 2024
+- Go Static: Contextualized Logging Statement Generation, Yichen Li, Yintong Huo, **Renyi Zhong**, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He and Michael R. Lyu, The ACM International Conference on the Foundations of Software Engineering (FSE) (CCF A), Porto de Galinhas, Brazil, July 2024
+- Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach, Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R Lyu, International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (CCF A), 2024
+- [Automatic Trend Analysis of Mobile App Updates Based on App Changelogs](https://crad.ict.ac.cn/EN/10.7544/issn1000-1239.2021.20200756), **Zhong Renyi**, Wang Chong, Liang Peng, Luo zhong, Journal of Computer Research and Development (CCF A), 2021, 58(4)
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
