@@ -27,7 +27,11 @@ My research interests are mainly in quality assurance in software maintainance. 
 - [2022/04/04] I have been selected as the outstanding graduates of Wuhan University.
 
 # 📝 Publications 
-- 7.**[J03]** <span style="color:#337AB7">[**TOSEM**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements, **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu, ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted
+- 7.**[J03]** <span style="color:#337AB7">[**TOSEM**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
+
+  **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
+  
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted
 - 6.**[C04]** <span style="color:#337AB7">[**FSE'25**]</span> L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis, Zhihan Jiang, Junjie Huang, Guangba Yu, Zhuangbin Chen, Yichen Li, **Renyi Zhong**, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu, The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Trondheim, Norway, June 2025
 - 5.**[C03]** <span style="color:#337AB7">[**ICSE'25**]</span> Towards Quality Assurance of Natural Language in Code, **Renyi Zhong**, Doctoral Symposium in 47th International Conference on Software Engineering (ICSE-DS) (<span style="color:#FC4E2A">CCF-A</span>), Ottawa, Ontario, Canada, 2025
 - 4.**[J02]** <span style="color:#337AB7">[**TSE'24**]</span> Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study, Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu, IEEE Transactions on Software Engineering (TSE) (<span style="color:#FC4E2A">CCF-A</span>), 2024
