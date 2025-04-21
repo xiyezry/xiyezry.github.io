@@ -59,7 +59,7 @@ My research interests are mainly in quality assurance in software maintainance. 
   International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (<span style="color:#FC4E2A">CCF-A</span>), 2024
 - 1.**[J01]** Automatic Trend Analysis of Mobile App Updates Based on App Changelogs
 
-  **Zhong Renyi**, Wang Chong, Liang Peng, Luo zhong
+  **Renyi Zhong**, Chong Wang, Peng Liang, Zhong Luo
 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4)
 
