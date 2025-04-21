@@ -28,6 +28,8 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # 📝 Publications 
 - LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements, **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu, ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF A), Just Accepted
+- L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis, Zhihan Jiang, Junjie Huang, Guangba Yu, Zhuangbin Chen, Yichen Li, Renyi Zhong, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu, The ACM International Conference on the Foundations of Software Engineering (FSE), Trondheim, Norway, June 2025
+- Towards Quality Assurance of Natural Language in Code, **Renyi Zhong**, Doctoral Symposium in 47th International Conference on Software Engineering (ICSE-DS), Ottawa, Ontario, Canada, 2025
 - Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study, Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu, IEEE Transactions on Software Engineering (TSE) (CCF A), 2024
 - Go Static: Contextualized Logging Statement Generation, Yichen Li, Yintong Huo, **Renyi Zhong**, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He and Michael R. Lyu, The ACM International Conference on the Foundations of Software Engineering (FSE) (CCF A), Porto de Galinhas, Brazil, July 2024
 - Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach, Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R Lyu, International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (CCF A), 2024
