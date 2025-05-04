@@ -31,7 +31,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang†, Ming Li, and Michael R. Lyu
 
-  The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Industry track, Naples, Italy, June 2025
+  The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025
 
 - 7.**[J03]** <span style="color:#337AB7">[**TOSEM**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
 
