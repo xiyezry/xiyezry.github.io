@@ -27,7 +27,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 - [2022/04/04] I have been selected as the outstanding graduates of Wuhan University.
 
 # 📝 Publications 
-- **[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
+- 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
 
   Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang†, Ming Li, and Michael R. Lyu
 
