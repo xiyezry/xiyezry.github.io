@@ -22,18 +22,15 @@ I'm now a year 3 Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) i
 My research interests are mainly in quality assurance in software maintainance. Specifically, it's quality assurance for logging statements and code comments.
 
 
-# 🔥 News
-- [2022/04/06] I have been selected as the 2022-2023 HKPFS awardee by HKUGC.
-- [2022/04/04] I have been selected as the outstanding graduates of Wuhan University.
 
 # 📝 Publications 
 - 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
 
-  Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang†, Ming Li, and Michael R. Lyu
+  Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang, Ming Li, and Michael R. Lyu
 
   The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025
 
-- 7.**[J03]** <span style="color:#337AB7">[**TOSEM**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
+- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
 
   **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
   
