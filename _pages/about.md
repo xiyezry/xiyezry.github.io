@@ -30,7 +30,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025
 
-- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**][PDF](https://github.com/xiyezry/xiyezry.github.io/blob/main/pdf/zhong2025logupdater.pdf)</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
+- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**] [[PDF]](https://dl.acm.org/doi/10.1145/3731754)</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
 
   **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
   
@@ -45,22 +45,22 @@ My research interests are mainly in quality assurance in software maintainance. 
   **Renyi Zhong**
 
   Doctoral Symposium in 47th International Conference on Software Engineering (ICSE-DS) (<span style="color:#FC4E2A">CCF-A</span>), Ottawa, Ontario, Canada, 2025
-- 4.**[J02]** <span style="color:#337AB7">[**TSE'24**]</span> Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study
+- 4.**[J02]** <span style="color:#337AB7">[**TSE'24**]</span> [[PDF]](https://ieeexplore.ieee.org/document/10707668) Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study
 
   Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu
 
   IEEE Transactions on Software Engineering (TSE) (<span style="color:#FC4E2A">CCF-A</span>), 2024
-- 3.**[C02]** <span style="color:#337AB7">[**FSE'24**]</span> Go Static: Contextualized Logging Statement Generation
+- 3.**[C02]** <span style="color:#337AB7">[**FSE'24**]</span> [[PDF]](https://dl.acm.org/doi/10.1145/3643754) Go Static: Contextualized Logging Statement Generation
 
   Yichen Li, Yintong Huo, **Renyi Zhong**, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He and Michael R. Lyu
 
   The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Porto de Galinhas, Brazil, July 2024
-- 2.**[C01]** <span style="color:#337AB7">[**ICSE'24**]</span> Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach
+- 2.**[C01]** <span style="color:#337AB7">[**ICSE'24**]</span> [[PDF]](https://dl.acm.org/doi/10.1145/3639477.3639745) Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach
 
   Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R Lyu
 
   International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (<span style="color:#FC4E2A">CCF-A</span>), 2024
-- 1.**[J01]** Automatic Trend Analysis of Mobile App Updates Based on App Changelogs
+- 1.**[J01]** [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756) Automatic Trend Analysis of Mobile App Updates Based on App Changelogs
 
   **Renyi Zhong**, Chong Wang, Peng Liang, Zhong Luo
 
