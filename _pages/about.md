@@ -30,7 +30,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025
 
-- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
+- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**][PDF](https://github.com/xiyezry/xiyezry.github.io/blob/main/pdf/zhong2025logupdater.pdf)</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
 
   **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
   
