@@ -68,6 +68,27 @@ My research interests are mainly in quality assurance in software maintainance. 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
 
 ## Preprint
+- 4.**[P04]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
+
+  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R Lyu
+
+  Under review at IEEE Transactions on Software Engineering (TSE)
+
+- 3.**[P03]** KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
+
+  Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R Lyu
+
+  Under review at Empirical Software Engineering (EMSE)
+  
+- 2.**[P02]** Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
+
+  **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R Lyu
+
+  Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)
+
+- 1.**[P01]** Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis
+
+  Wenwei Gu, **Renyi Zhong**, Jianping Zhang, Michael R Lyu
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
