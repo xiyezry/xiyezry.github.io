@@ -24,6 +24,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 
 # 📝 Publications 
+## Peer-reviewed
 - 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
 
   Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang, Ming Li, and Michael R. Lyu
@@ -65,6 +66,8 @@ My research interests are mainly in quality assurance in software maintainance. 
   **Renyi Zhong**, Chong Wang, Peng Liang, Zhong Luo
 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
+
+## Preprint
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
