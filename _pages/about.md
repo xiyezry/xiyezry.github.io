@@ -98,6 +98,10 @@ My research interests are mainly in quality assurance in software maintainance. 
 - National Scholarship, Ministry of Education of the P.R. China. 2020
 - National Scholarship, Ministry of Education of the P.R. China. 2019
 
+# Services
+- Reviewers: ICSE'26@Shadow, ISSRE'25@ReSAISE
+- Subreviewers: ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24
+
 # 📖 Educations
 - 2022.08~now  Ph.D student, Chinese University of Hong Kong
 - 2018.09~2022.06 Bachelor degree, Wuhan University
