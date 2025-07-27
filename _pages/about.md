@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a year 3 Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) in The Chinese University of Hong Kong, advised by [Prof.Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). 
+I'm now a year 4 Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) in The Chinese University of Hong Kong, advised by [Prof.Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). 
 
 My research interests are mainly in quality assurance in software maintainance. Specifically, it's quality assurance for logging statements and code comments.
 
@@ -103,7 +103,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 - Subreviewers: ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24
 
 # 📖 Educations
-- 2022.08~now  Ph.D student, Chinese University of Hong Kong
+- 2022.08~now  Ph.D student, The Chinese University of Hong Kong
 - 2018.09~2022.06 Bachelor degree, Wuhan University
 
 # Teaching Assisstant
