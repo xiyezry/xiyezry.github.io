@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a year 4 Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) in The Chinese University of Hong Kong, advised by [Prof.Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). 
+I'm now a final year Ph.D student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) in The Chinese University of Hong Kong, advised by [Prof.Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). 
 
 My research interests are mainly in quality assurance in software maintainance. Specifically, it's quality assurance for logging statements and code comments.
 
@@ -74,17 +74,17 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   Under review at IEEE Transactions on Software Engineering (TSE)
 
-- 3.**[P03]** KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
-
-  Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R Lyu
-
-  Under review at Empirical Software Engineering (EMSE)
-  
-- 2.**[P02]** Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
+- 3.**[P03]** Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
 
   **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R Lyu
 
   Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)
+  
+- 2.**[P02]** KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
+
+  Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R Lyu
+
+  Under review at Empirical Software Engineering (EMSE)
 
 - 1.**[P01]** Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis
 
@@ -110,4 +110,5 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 - 2022 Fall: CSCI1130A Introduction to Computing Using Java
 - 2023 Spring: ENGG1110D Problem Solving By Programming
+- 2023 Fall: CSCI3180 Principles of Programming Language
 <!-- # 💻 Internships -->
