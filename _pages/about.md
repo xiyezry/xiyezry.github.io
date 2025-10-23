@@ -25,6 +25,11 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # 📝 Publications 
 ## Peer-reviewed
+- 9.**[J04]** <span style="color:#337AB7">[**TOSEM'25**]</span> Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
+
+  **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R Lyu
+
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted
 - 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
 
   Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang, Ming Li, and Michael R. Lyu
@@ -68,17 +73,11 @@ My research interests are mainly in quality assurance in software maintainance. 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
 
 ## Preprint
-- 4.**[P04]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
+- 3.**[P03]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R Lyu
 
   Under review at IEEE Transactions on Software Engineering (TSE)
-
-- 3.**[P03]** Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
-
-  **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R Lyu
-
-  Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)
   
 - 2.**[P02]** KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
 
