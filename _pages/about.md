@@ -25,9 +25,14 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # 📝 Publications 
 ## Peer-reviewed
+- 10.**[J05]** <span style="color:#337AB7">[**EMSE'25**]</span> KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
+
+  Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R. Lyu
+
+  Empirical Software Engineering (EMSE) (<span style="color:#FC4E2A">CCF-B</span>)
 - 9.**[J04]** <span style="color:#337AB7">[**TOSEM'25**]</span> Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
 
-  **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R Lyu
+  **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R. Lyu
 
   ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted
 - 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
@@ -63,7 +68,7 @@ My research interests are mainly in quality assurance in software maintainance. 
   The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Porto de Galinhas, Brazil, July 2024 [[PDF]](https://dl.acm.org/doi/10.1145/3643754)
 - 2.**[C01]** <span style="color:#337AB7">[**ICSE'24**]</span> Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach
 
-  Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R Lyu
+  Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R. Lyu
 
   International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (<span style="color:#FC4E2A">CCF-A</span>), 2024 [[PDF]](https://dl.acm.org/doi/10.1145/3639477.3639745)
 - 1.**[J01]** Automatic Trend Analysis of Mobile App Updates Based on App Changelogs
@@ -73,17 +78,11 @@ My research interests are mainly in quality assurance in software maintainance. 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
 
 ## Preprint
-- 3.**[P03]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
+- 3.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
 
-  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R Lyu
+  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R. Lyu
 
   Under review at IEEE Transactions on Software Engineering (TSE)
-  
-- 2.**[P02]** KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
-
-  Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R Lyu
-
-  Under review at Empirical Software Engineering (EMSE)
 
 - 1.**[P01]** Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis
 
