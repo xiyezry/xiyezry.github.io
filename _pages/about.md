@@ -30,67 +30,67 @@ My research interests are mainly in quality assurance in software maintainance. 
   Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R. Lyu
 
   Empirical Software Engineering (EMSE) (<span style="color:#FC4E2A">CCF-B</span>)
-- 9.**[J04]** <span style="color:#337AB7">[**TOSEM'25**]</span> Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation
+- 9.**[J04]** <span style="color:#337AB7">[**TOSEM'25**]</span> Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation [[PDF]](https://dl.acm.org/doi/10.1145/3773287)
 
   **Renyi Zhong**, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R. Lyu
 
-  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted
-- 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted 
+- 8.**[C05]** <span style="color:#337AB7">[**DSN'25**]</span> Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs [[PDF]](https://ieeexplore.ieee.org/document/11068374)
 
   Wenwei Gu, Jiazhen Gu, **Renyi Zhong**, Wenyu Zhang, Ming Li, and Michael R. Lyu
 
-  The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025
+  The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (<span style="color:#FC4E2A">CCF-B</span>), Industry track, Naples, Italy, June 2025 
 
-- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements
+- 7.**[J03]** <span style="color:#337AB7">[**TOSEM'25**]</span> LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements [[PDF]](https://dl.acm.org/doi/10.1145/3731754)
 
   **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
   
-  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted [[PDF]](https://dl.acm.org/doi/10.1145/3731754)
-- 6.**[C04]** <span style="color:#337AB7">[**FSE'25**]</span> L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted 
+- 6.**[C04]** <span style="color:#337AB7">[**FSE'25**]</span> L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis [[PDF]](https://dl.acm.org/doi/10.1145/3696630.3728531)
 
   Zhihan Jiang, Junjie Huang, Guangba Yu, Zhuangbin Chen, Yichen Li, **Renyi Zhong**, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu
 
   The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Trondheim, Norway, June 2025
-- 5.**[C03]** <span style="color:#337AB7">[**ICSE'25**]</span> Towards Quality Assurance of Natural Language in Code
+- 5.**[C03]** <span style="color:#337AB7">[**ICSE'25**]</span> Towards Quality Assurance of Natural Language in Code [[PDF]](https://dl.acm.org/doi/10.1109/ICSE-Companion66252.2025.00056)
 
   **Renyi Zhong**
 
   Doctoral Symposium in 47th International Conference on Software Engineering (ICSE-DS) (<span style="color:#FC4E2A">CCF-A</span>), Ottawa, Ontario, Canada, 2025
-- 4.**[J02]** <span style="color:#337AB7">[**TSE'24**]</span> Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study
+- 4.**[J02]** <span style="color:#337AB7">[**TSE'24**]</span> Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study [[PDF]](https://ieeexplore.ieee.org/document/10707668)
 
   Yichen Li, Yintong Huo, Zhihan Jiang, **Renyi Zhong**, Pinjia He, Yuxin Su, Lionel C. Briand and Michael R. Lyu
 
-  IEEE Transactions on Software Engineering (TSE) (<span style="color:#FC4E2A">CCF-A</span>), 2024 [[PDF]](https://ieeexplore.ieee.org/document/10707668)
-- 3.**[C02]** <span style="color:#337AB7">[**FSE'24**]</span> Go Static: Contextualized Logging Statement Generation
+  IEEE Transactions on Software Engineering (TSE) (<span style="color:#FC4E2A">CCF-A</span>), 2024 
+- 3.**[C02]** <span style="color:#337AB7">[**FSE'24**]</span> Go Static: Contextualized Logging Statement Generation [[PDF]](https://dl.acm.org/doi/10.1145/3643754)
 
   Yichen Li, Yintong Huo, **Renyi Zhong**, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He and Michael R. Lyu
 
-  The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Porto de Galinhas, Brazil, July 2024 [[PDF]](https://dl.acm.org/doi/10.1145/3643754)
-- 2.**[C01]** <span style="color:#337AB7">[**ICSE'24**]</span> Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach
+  The ACM International Conference on the Foundations of Software Engineering (FSE) (<span style="color:#FC4E2A">CCF-A</span>), Porto de Galinhas, Brazil, July 2024 
+- 2.**[C01]** <span style="color:#337AB7">[**ICSE'24**]</span> Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach [[PDF]](https://dl.acm.org/doi/10.1145/3639477.3639745)
 
   Jinxi Kuang, Jinyang Liu, Junjie Huang, **Renyi Zhong**, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R. Lyu
 
-  International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (<span style="color:#FC4E2A">CCF-A</span>), 2024 [[PDF]](https://dl.acm.org/doi/10.1145/3639477.3639745)
-- 1.**[J01]** Automatic Trend Analysis of Mobile App Updates Based on App Changelogs
+  International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (<span style="color:#FC4E2A">CCF-A</span>), 2024 
+- 1.**[J01]** Automatic Trend Analysis of Mobile App Updates Based on App Changelogs [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
 
   **Renyi Zhong**, Chong Wang, Peng Liang, Zhong Luo
 
-  Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
+  Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) 
 
 ## Preprint
-- 3.**[P03]** End-to-End Automated Logging via Multi-Agent Framework
+- 3.**[P03]** End-to-End Automated Logging via Multi-Agent Framework [[PDF]](https://www.arxiv.org/abs/2511.18528)
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
   
   Under Review
 
-- 2.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
+- 2.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency [[PDF]](https://arxiv.org/abs/2506.20558)
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R. Lyu
 
   Under review at IEEE Transactions on Software Engineering (TSE)
 
-- 1.**[P01]** Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis
+- 1.**[P01]** Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis [[PDF]](https://arxiv.org/abs/2503.19519)
 
   Wenwei Gu, **Renyi Zhong**, Jianping Zhang, Michael R Lyu
 
