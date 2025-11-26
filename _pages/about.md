@@ -78,7 +78,13 @@ My research interests are mainly in quality assurance in software maintainance. 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) [[PDF]](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200756)
 
 ## Preprint
-- 3.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
+- 3.**[P03]** End-to-End Automated Logging via Multi-Agent Framework
+
+  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
+  
+  Under Review
+
+- 2.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R. Lyu
 
@@ -97,7 +103,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 - National Scholarship, Ministry of Education of the P.R. China. 2019
 
 # Services
-- Reviewers: ICSE'26@Shadow, ISSRE'25@ReSAISE
+- Reviewers: ICSE'26@Shadow, ISSRE'25@ReSAISE, ASEJ
 - Subreviewers: ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24
 
 # 📖 Educations
