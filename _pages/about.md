@@ -51,7 +51,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   **Renyi Zhong**, Yichen Li, Jinxi Kuang, Wenwei Gu, Yintong Huo, Michael R. Lyu
   
-  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), Just Accepted 
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (<span style="color:#FC4E2A">CCF-A</span>), 35, 1, Article 16 (January 2026)
 - 6.**[C04]** <span style="color:#337AB7">[**FSE'25**]</span> L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis [[PDF]](https://dl.acm.org/doi/10.1145/3696630.3728531)
 
   Zhihan Jiang, Junjie Huang, Guangba Yu, Zhuangbin Chen, Yichen Li, **Renyi Zhong**, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu
