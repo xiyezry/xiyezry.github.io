@@ -25,6 +25,12 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # 📝 Publications 
 ## Peer-reviewed
+- 11.**[C06]** [**ICPC'26**] AutoLogger: A Multi-Agent Framework for the End-to-End Automated Logging [[PDF]](https://www.arxiv.org/abs/2511.18528)
+
+  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
+  
+  The 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), Rio de Janeiro, Brazil
+
 - 10.**[J05]** <span style="color:#337AB7">[**EMSE'25**]</span> KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
 
   Wenwei Gu, **Renyi Zhong**, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, Michael R. Lyu
@@ -78,12 +84,6 @@ My research interests are mainly in quality assurance in software maintainance. 
   Journal of Computer Research and Development (<span style="color:#FC4E2A">CCF-A</span>), 2021, 58(4) 
 
 ## Preprint
-- 3.**[P03]** End-to-End Automated Logging via Multi-Agent Framework [[PDF]](https://www.arxiv.org/abs/2511.18528)
-
-  **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
-  
-  Under Review
-
 - 2.**[P02]** CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency [[PDF]](https://arxiv.org/abs/2506.20558)
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Jinxi Kuang, Zhihan Jiang, Guangba Yu, Yichen Li, David Lo, Michael R. Lyu
