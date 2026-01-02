@@ -25,7 +25,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # 📝 Publications 
 ## Peer-reviewed
-- 11.**[C06]** [**ICPC'26**] AutoLogger: A Multi-Agent Framework for the End-to-End Automated Logging [[PDF]](https://www.arxiv.org/abs/2511.18528)
+- 11.**[C06]** <span style="color:#337AB7">[**ICPC'26**]</span> AutoLogger: A Multi-Agent Framework for the End-to-End Automated Logging [[PDF]](https://www.arxiv.org/abs/2511.18528)
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
   
