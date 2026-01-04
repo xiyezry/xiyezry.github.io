@@ -29,7 +29,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
   **Renyi Zhong**, Yintong Huo, Wenwei Gu, Yichen Li, Michael R. Lyu
   
-  The 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), Rio de Janeiro, Brazil
+  The 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026) (<span style="color:#FC4E2A">CCF-B</span>), Rio de Janeiro, Brazil
 
 - 10.**[J05]** <span style="color:#337AB7">[**EMSE'25**]</span> KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems
 
@@ -104,7 +104,7 @@ My research interests are mainly in quality assurance in software maintainance. 
 
 # Services
 - Reviewers: ICSE'26@Shadow, ISSRE'25@ReSAISE, ASEJ
-- Subreviewers: ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24
+- Subreviewers: DSN'26, FSE'26, ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24
 
 # 📖 Educations
 - 2022.08~now  Ph.D student, The Chinese University of Hong Kong
