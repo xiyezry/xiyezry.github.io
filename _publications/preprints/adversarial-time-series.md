@@ -3,6 +3,7 @@ title: "Towards Imperceptible Adversarial Attacks for Time Series Classification
 date: 2025-03-01 00:01:00 +0800
 category: preprint
 selected: false
+venue_short: "Preprint"
 pub: "Preprint"
 pub_date: "2025"
 authors:

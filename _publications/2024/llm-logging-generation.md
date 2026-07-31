@@ -3,6 +3,8 @@ title: "Exploring the Effectiveness of LLMs in Automated Logging Statement Gener
 date: 2024-12-01 00:01:00 +0800
 category: peer-reviewed
 selected: false
+venue_short: "TSE'24"
+ccf_rank: A
 pub: "IEEE Transactions on Software Engineering (TSE)"
 pub_date: "2024"
 authors:

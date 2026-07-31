@@ -3,6 +3,8 @@ title: "Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: A Hybrid
 date: 2024-10-01 00:01:00 +0800
 category: peer-reviewed
 selected: false
+venue_short: "ICSE-SEIP'24"
+ccf_rank: A
 pub: "International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
 pub_date: "2024"
 authors:

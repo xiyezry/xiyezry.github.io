@@ -2,7 +2,9 @@
 title: "LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements"
 date: 2026-01-01 00:01:00 +0800
 category: peer-reviewed
-selected: false
+selected: true
+venue_short: "TOSEM'25"
+ccf_rank: A
 pub: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
 pub_date: "35(1), Article 16, January 2026"
 authors:

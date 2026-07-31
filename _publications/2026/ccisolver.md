@@ -3,6 +3,8 @@ title: "CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment 
 date: 2026-07-01 00:01:00 +0800
 category: peer-reviewed
 selected: true
+venue_short: "TSE'26"
+ccf_rank: A
 pub: "IEEE Transactions on Software Engineering (TSE)"
 pub_date: "2026, Just Accepted"
 authors:

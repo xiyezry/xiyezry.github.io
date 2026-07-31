@@ -2,7 +2,9 @@
 title: "KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems"
 date: 2025-12-01 00:01:00 +0800
 category: peer-reviewed
-selected: true
+selected: false
+venue_short: "EMSE'25"
+ccf_rank: B
 pub: "Empirical Software Engineering (EMSE)"
 pub_date: "2025"
 authors:
