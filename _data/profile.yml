@@ -48,7 +48,7 @@ awards:
 
 services:
 - role: Reviewers
-  venues: "ICSE'26 Shadow, ISSRE'25 ReSAISE, ASEJ"
+  venues: "TOSEM'26, ISSRE'26 Fast Abstract Track, ISSRE'25 ReSAISE, ASEJ"
 - role: Subreviewers
   venues: "DSN'26, FSE'26, ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24"
 
