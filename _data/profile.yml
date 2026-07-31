@@ -1,61 +1,61 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Renyi Zhong"
+secondary_name: "Ryan"
+navbar_name: "Renyi Zhong"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Student, ARISE Lab
+- name: The Chinese University of Hong Kong
 
-
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+email: "xiyezry@gmail.com"
+gscholar: X3H7L-EAAAAJ
+github: xiyezry
+linkedin: renyi-zhong-860013221
+researchgate: https://www.researchgate.net/profile/Renyi_Zhong
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a final-year Ph.D. student at the
+    <a href="http://ariselab.cse.cuhk.edu.hk/" target="_blank">ARISE Lab</a>
+    at The Chinese University of Hong Kong, advised by
+    <a href="https://www.cse.cuhk.edu.hk/lyu/home" target="_blank">Prof. Michael R. Lyu</a>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research focuses on quality assurance in software maintenance,
+    particularly for logging statements and code comments.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: "Renyi Zhong"
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: The Chinese University of Hong Kong
+  position: Ph.D. Student
+  date: Aug. 2022 - Present
+- name: Wuhan University
+  position: Bachelor's Degree
+  date: Sep. 2018 - Jun. 2022
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Hong Kong PhD Fellowship Scheme, University Grants Committee of Hong Kong
+  date: 2022
+- name: Outstanding Graduates of Wuhan University
+  date: 2022
+- name: National Scholarship, Ministry of Education of the P.R. China
+  date: 2020
+- name: National Scholarship, Ministry of Education of the P.R. China
+  date: 2019
+
+services:
+- role: Reviewers
+  venues: "ICSE'26 Shadow, ISSRE'25 ReSAISE, ASEJ"
+- role: Subreviewers
+  venues: "DSN'26, FSE'26, ICSE'25, ASE'25, ISSTA'25, ISSTA'24, FSE'24"
+
+teaching:
+- course: CSCI1130A Introduction to Computing Using Java
+  term: Fall 2022
+- course: ENGG1110D Problem Solving By Programming
+  term: Spring 2023
+- course: CSCI3180 Principles of Programming Language
+  term: Fall 2023
