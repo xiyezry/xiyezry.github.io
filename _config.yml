@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Renyi Zhong"
-description: "Academic homepage of Renyi Zhong, a Ph.D. student at The Chinese University of Hong Kong."
+description: "Academic homepage of Renyi Zhong, a recent CSE Ph.D. graduate from ARISE Lab at The Chinese University of Hong Kong."
 url: "https://xiyezry.github.io"
 baseurl: ""
 

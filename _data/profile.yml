@@ -3,7 +3,7 @@ secondary_name: "Ryan"
 navbar_name: "Renyi Zhong"
 
 positions:
-- name: Ph.D. Student, ARISE Lab
+- name: Recent CSE Ph.D. Graduate, ARISE Lab
 - name: The Chinese University of Hong Kong
 
 email: "xiyezry@gmail.com"
@@ -15,9 +15,9 @@ researchgate: https://www.researchgate.net/profile/Renyi_Zhong
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year Ph.D. student at the
+    I am a <em>recent CSE Ph.D. graduate from
     <a href="http://ariselab.cse.cuhk.edu.hk/" target="_blank">ARISE Lab</a>
-    at The Chinese University of Hong Kong, advised by
+    at The Chinese University of Hong Kong</em>, supervised by
     <a href="https://www.cse.cuhk.edu.hk/lyu/home" target="_blank">Prof. Michael R. Lyu</a>.
   </p>
   <p>
@@ -30,8 +30,8 @@ portrait_caption: "Renyi Zhong"
 
 education:
 - name: The Chinese University of Hong Kong
-  position: Ph.D. Student
-  date: Aug. 2022 - Present
+  position: Ph.D. in Computer Science and Engineering
+  date: Aug. 2022 - 2026
 - name: Wuhan University
   position: Bachelor's Degree
   date: Sep. 2018 - Jun. 2022
