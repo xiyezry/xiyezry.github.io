@@ -2,7 +2,7 @@
 title: "Towards Quality Assurance of Natural Language in Code"
 date: 2025-07-01 00:01:00 +0800
 category: peer-reviewed
-selected: true
+selected: false
 venue_short: "ICSE'25"
 ccf_rank: A
 pub: "Doctoral Symposium, 47th International Conference on Software Engineering (ICSE-DS)"
