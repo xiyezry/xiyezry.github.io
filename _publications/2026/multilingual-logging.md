@@ -1,6 +1,6 @@
 ---
 title: "Single-Language Evidence Is Insufficient for Automated Logging: A Multilingual Benchmark and Empirical Study with LLMs"
-date: 2026-04-01 00:01:00 +0800
+date: 2026-09-20 00:01:00 +0800
 category: peer-reviewed
 selected: true
 venue_short: "TOSEM'26"
