@@ -1,6 +1,6 @@
 ---
 title: "LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements"
-date: 2026-01-01 00:01:00 +0800
+date: 2025-04-17 00:01:00 +0800
 category: peer-reviewed
 selected: true
 venue_short: "TOSEM'25"
