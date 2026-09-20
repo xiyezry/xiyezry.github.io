@@ -96,15 +96,23 @@ div.lazy {
     margin-right: 0.35rem;
     padding: 0.3em 0.6em;
     border-radius: 999px;
-    background-color: #28a745;
+    background-color: #6c757d;
     color: #fff;
     font-size: 0.78rem;
     font-weight: 700;
     vertical-align: 0.08em;
 }
 
-.publication-venue-badge-muted {
-    background-color: #6c757d;
+.publication-venue-badge-a {
+    background-color: #2563eb;
+}
+
+.publication-venue-badge-b {
+    background-color: #15803d;
+}
+
+.publication-venue-badge-t1 {
+    background-color: #7c3aed;
 }
 
 .email-text {

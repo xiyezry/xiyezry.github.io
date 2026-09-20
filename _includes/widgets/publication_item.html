@@ -5,7 +5,7 @@
         <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
         <p class="mt-1 mb-0 small publication-venue">
             {% if item.venue_short %}
-            <span class="badge publication-venue-badge{% unless item.ccf_rank %} publication-venue-badge-muted{% endunless %}">
+            <span class="badge publication-venue-badge{% if item.ccf_rank %} publication-venue-badge-{{ item.ccf_rank | downcase | escape }}{% endif %}">
                 {{ item.venue_short }}{% if item.ccf_rank %} (CCF {{ item.ccf_rank }}){% endif %}
             </span>
             {% endif %}
